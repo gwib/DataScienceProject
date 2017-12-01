@@ -14,6 +14,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#csv and tsv-files - not sure if that works
+*.csv
+*.tsv
+
 # C extensions
 *.so
 
